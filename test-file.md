@@ -1,1 +1,4 @@
-[link[](fail)](hello.html)
+# Title
+
+[a link!](https://something.com)
+[another link](hello.html)
