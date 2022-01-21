@@ -2,4 +2,4 @@
 
 # paranthesis (hello)
 
-(link)[swag.com]
+[link](swag.com)
