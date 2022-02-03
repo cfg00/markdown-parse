@@ -52,3 +52,4 @@ public class MarkdownParseTest {
         assertEquals(List.of(),MarkdownParse.getLinks(contents));
 
 }
+}
